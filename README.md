@@ -2,7 +2,8 @@
 
 # Cluster Analysis
 <img width="1080" alt="image" src="https://user-images.githubusercontent.com/30044227/165281870-353a5279-d1e1-4317-b030-3bc13b253722.png">
-The method we use follows the approach developed by Bazellières et al. [[1]](#1). The method consists of three steps
+The method we use follows the approach developed by Bazellières et al.[1]. The method consists of three steps
+
 1. Building the correlation matrix
 1. Ordering the correlation matrix
 3. Identifying the clusters
